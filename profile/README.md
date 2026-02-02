@@ -7,7 +7,6 @@
 Most automation tools are either too brittle or too heavy. Desktop Commander aims for the middle: **simple, composable building blocks** that feel like a power tool, not a platform.
 - Fast local operations for files and system tasks
 - Human-friendly prompts with deterministic actions
-- Safe by default, with explicit approvals for risky steps
 - Works with your existing tools and project structure
 ---
 ## What you can build
